@@ -1,3 +1,4 @@
+![MahirTV Logo]((https://files.catbox.moe/qeqg95.png))
 # MahirTV
 
 A modern Linux TV OS simulator written in C++ with SDL2 + OpenGL.
