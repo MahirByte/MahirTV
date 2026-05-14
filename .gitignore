@@ -1,0 +1,7 @@
+build/
+MahirTV.AppDir/
+*.AppImage
+appimagetool-*.AppImage
+mtv_root/
+*.o
+*.a
